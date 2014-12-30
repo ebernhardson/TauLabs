@@ -253,6 +253,8 @@ extern uintptr_t pios_com_debug_id;
 
 #define PIOS_ADC_SUB_DRIVER_MAX_INSTANCES       3
 
+#define PIOS_I2C_ETASV3_ADAPTER   (pios_i2c_flexi_id)
+
 //-------------------------
 // USB
 //-------------------------
